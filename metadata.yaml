@@ -1,0 +1,32 @@
+_repo: The-Ancient-Law_34419
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34419-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Glasgow, Ellen Anderson Gholson
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '885'
+    url: http://www.gutenberg.org/2009/agents/885
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
+description: This book portrays white factory workers in the Virginia textile industry
+  and the effects of industrial capitalism.
+gutenberg_issued: '2010-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atonement -- Fiction'
+- !lcsh 'Virginia -- Fiction'
+- !lcsh 'Textile industry -- Fiction'
+- !lcsh 'Industrial relations -- Fiction'
+- !lcsh 'Ex-convicts -- Fiction'
+- !lcc 'PS'
+title: The Ancient Law
+url: http://www.gutenberg.org/ebooks/34419
